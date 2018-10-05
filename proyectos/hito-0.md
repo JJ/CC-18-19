@@ -13,7 +13,7 @@ Incluye debajo un enlace a tu repositorio
 | CORREA FERNANDEZ,  GEMA |  | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN |@adritake|2.17.1|
 | GALLEGO QUERO,  LUIS |  | |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL |  | |
+| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/cloud-computing | 1 |
 | GRIMM,  ALEXANDER MANUEL JOSEF |  | |
 | MORALES GARZON,  ANDREA |  | |
 | NEZREG ELAMBRI,   HOUARIA |  | |
