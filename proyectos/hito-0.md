@@ -18,7 +18,7 @@ Incluye debajo un enlace a tu repositorio
 | MORALES GARZON,  ANDREA |  | |
 | NEZREG ELAMBRI,   HOUARIA |  | |
 | PEIRÓ GARRIDO,  FELIPE |  | |
-| SAMANIEGO MARTINEZ,  SERGIO | samahetfield | 2.17.1 |
+| SAMANIEGO MARTINEZ,  SERGIO | samahetfield | 0.1 |
 | SERRANO PEREZ,  JUAN CARLOS |  | |
 | TATBAK,  EMRE |  | |
 | VALTL,  JAKOB |  | |
