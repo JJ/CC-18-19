@@ -11,7 +11,7 @@ Incluye debajo un enlace a tu repositorio
 | BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 0 |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER |  | |
 | CORREA FERNANDEZ,  GEMA |  | |
-| DE LA TORRE RODRIGUEZ,  ADRIAN |https://github.com/adritake/CC_UGR_Personal|2.17.1|
+| DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal |2.17.1|
 | GALLEGO QUERO,  LUIS |  | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/cloud-computing | 0 |
 | GRIMM,  ALEXANDER MANUEL JOSEF |  | |
