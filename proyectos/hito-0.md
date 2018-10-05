@@ -2,7 +2,7 @@
 
 Incluye debajo un enlace a tu repositorio
 
-| Nombre   | Nick de Github | Versión |
+| Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
 | AL-MUSAWI,  ABDULLAH TAHER SAADOON |  | |
 | AL-OWAIDI,  SALAM GHANIM NAJEEB |  | |
