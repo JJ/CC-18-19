@@ -19,6 +19,6 @@ Incluye debajo un enlace a tu repositorio
 | NEZREG ELAMBRI,   HOUARIA |  | |
 | PEIRÓ GARRIDO,  FELIPE |  | |
 | SAMANIEGO MARTINEZ,  SERGIO |  |  |
-| SERRANO PEREZ,  JUAN CARLOS |  | |
+| SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 0 |
 | TATBAK,  EMRE |  | |
 | VALTL,  JAKOB |  | |
