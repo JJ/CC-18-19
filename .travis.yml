@@ -5,6 +5,6 @@ language: perl
 perl:
   - "5.18"
 before_install:
-install:
+install: perl -e 'print `git diff HEAD^1 HEAD` =~ /hito/ ? "Comprobando hito":"Comprobando objetivos", "\n" '
 script: prove -c
 
