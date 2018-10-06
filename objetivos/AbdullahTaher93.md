@@ -1,6 +1,7 @@
 Sesión 1: 3/10/2018
 This is My Name
 Abdullah Taher SAADOON ALmusawi
+My age 25
 1) Entender la metodología docente, de evaluación y de interacción de la asignatura.
 2) Darse de alta y comprender el funcionamiento básico de GitHub y el grupo de Telegram de la asignatura; conocer el resto de los recursos de la asignatura.
 3) Entender el concepto de software libre y su aplicación práctica en clase.
