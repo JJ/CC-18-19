@@ -8,7 +8,7 @@ Incluye debajo un enlace a tu repositorio
 | AL-OWAIDI,  SALAM GHANIM NAJEEB |  | |
 | ALQAM,  TAQIEDDIN F. A. |  | |
 | BAUTISTA CASTRO,  JAIRO DANIEL |  | |
-| BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 1 |
+| BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER |  | |
 | CORREA FERNANDEZ,  GEMA |  | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 0.1 |
@@ -18,7 +18,8 @@ Incluye debajo un enlace a tu repositorio
 | MORALES GARZON,  ANDREA |  | |
 | NEZREG ELAMBRI,   HOUARIA |  | |
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 0 |
-| SAMANIEGO MARTINEZ,  SERGIO |  |  |
+| SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 0 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 0 |
 | TATBAK,  EMRE |  | |
 | VALTL,  JAKOB |  | |
+
