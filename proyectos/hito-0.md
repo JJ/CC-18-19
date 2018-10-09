@@ -11,7 +11,6 @@ Incluye debajo un enlace a tu repositorio
 | BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 0 |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 0 |
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 0 |
-| CASANOVA GALLARDO, ENRIQUE | https://github.com/EnriCasGal/CC-Practicas | 0 |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 0 |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 0.1 |
 | GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 0 |
