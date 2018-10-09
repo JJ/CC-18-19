@@ -9,4 +9,4 @@
 - [x] Vernos las caras.
 - [x] Comenzar a usar git desde línea de órdenes y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones.
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
-- [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
+- [ ] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
