@@ -20,7 +20,7 @@ Incluye debajo un enlace a tu repositorio
 | GALLEGO QUERO,  LUIS | | | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | | |
 | GRIMM,  ALEXANDER MANUEL JOSEF | | | |
-| MARTÍN VALERA, JONATHAN | | | |
+| MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 0.1 |
 | MESA GONZÁLEZ, JESÚS | | | |
 | MORALES GARZON,  ANDREA | | | |
 | MORENTE GABALDÓN, ADRIÁN | | | |
