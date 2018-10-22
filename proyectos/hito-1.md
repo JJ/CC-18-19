@@ -30,4 +30,4 @@ Incluye debajo un enlace a tu repositorio
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 1.0 |
 | SERRANO PEREZ,  JUAN CARLOS | | |
 | TATBAK,  EMRE | | |
-| VALTL,  JAKOB | | |
+| VALTL,  JAKOB | https://github.com/valtl/cc-Master | 1 |
