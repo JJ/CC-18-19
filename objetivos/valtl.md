@@ -27,4 +27,4 @@ File 1: 3/10/2018
 - [x] Configurar la línea de órdenes para presentar información de repos.
 - [x] Conocer permisos y cuales usar en cada momento.
 - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
-- [x] Comprender el primer hito del proyecto
+- [x] Comprender el primer hito del proyecto.
