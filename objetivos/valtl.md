@@ -28,7 +28,11 @@ File 1: 3/10/2018
 - [x] Conocer permisos y cuales usar en cada momento.
 - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [x] Comprender el primer hito del proyecto.
+=======
+- [x] Comprender el primer hito del proyecto
+>>>>>>> 13b3bf89136192b94b743003dce98aac1f400582
 =======
 - [x] Comprender el primer hito del proyecto
 >>>>>>> 13b3bf89136192b94b743003dce98aac1f400582
