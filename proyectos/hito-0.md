@@ -29,5 +29,6 @@ Incluye debajo un enlace a tu repositorio
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | https://github.com/AntonioJavierRP/Cloud-Computing-Project | 0 |
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 0 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 0 |
-| TATBAK,  EMRE | https://github.com/jrtrillo/proyecto_cc  | 0 |
+| TATBAK,  EMRE |  | |
+| TRILLO VÍLCHEZ,  JOSE RAMÓN | https://github.com/jrtrillo/proyectoCC | 0 |
 | VALTL,  JAKOB | https://github.com/valtl/cc-Master | 0 |
