@@ -1,14 +1,10 @@
-﻿# Hito 1
+# Hito 1
 
 Incluye debajo un enlace a tu repositorio
 
 | Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
-<<<<<<< HEAD
 | AL-MUSAWI,  ABDULLAH TAHER SAADOON | https://github.com/AbdullahTaher93/CCMYproject | **0.2** |
-=======
-| AL-MUSAWI,  ABDULLAH TAHER SAADOON | https://github.com/AbdullahTaher93/CCMYproject | 0.2 |
->>>>>>> 69d5772c7819786b4cb4c7327245464771537e63
 | AL-OWAIDI,  SALAM GHANIM NAJEEB | | |
 | ALGUACIL CAMARERO,  MARÍA DEL MAR | https://github.com/MarAl15/ProyectoCC | 1  |
 | ALQAM,  TAQIEDDIN F. A. | | |
