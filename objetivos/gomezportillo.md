@@ -22,4 +22,4 @@
 - [x] Comprender el primer hito del proyecto.
 - [x] Entender el tipo de proyecto que hay que llevar a cabo en la asignatura y obtener una idea principal del mismo.
 - [x] Lectura y comprensión del concepto de microservicios del repositorio de clase
-- [x] Asistir a la charla recomendada por la asignatura "0 a Cloud"
+- [x] Asistir a la charla recomendada por la asignatura "0 a Cloud".

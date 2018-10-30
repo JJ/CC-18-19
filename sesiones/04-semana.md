@@ -14,23 +14,23 @@ https://www.meetup.com/es-ES/Granada-Geek/events/255394720/
 ## Otros objetivos
 
 * Revisar los resultados del primer hito y entender los fallos. Si no
-  se ha entregado todavía, lo dejamos para la clase del viernes. 
+  se ha entregado todavía, lo dejamos para la clase del viernes.
 
 * Tener manejo básico de los lenguajes usados en herramientas de
   provisionamiento, Python y Ruby.
-  
+
 * Darse de alta en servicios PaaS como zeit.co y Heroku.
-  
+
 * Establecido el tema de la charla de recuperación: provisión con Ansible.
-  
+
 * Entender por qué no se hace `git pull` sino `git pull --rebase` y
   como arreglarlo en ese caso
-  usando
-  [`git squash`](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git). 
-  
+  usando un squash commits con 
+  [`git rebase -i`](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git).
+
 * Proponer temas para el siguiente seminario/recuperación.
 
-  
+
 ## Material para la clase
 
 
@@ -38,7 +38,7 @@ https://www.meetup.com/es-ES/Granada-Geek/events/255394720/
 
 * *Práctica*:
   [Hito correspondiente](https://jj.github.io/CC/documentos/proyecto/2.PaaS). *Fecha
-  de entrega*: **7 de noviembre**. 
+  de entrega*: **7 de noviembre**.
 
 
 ## Siguiente semana
