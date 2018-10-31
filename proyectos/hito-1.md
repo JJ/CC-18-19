@@ -4,7 +4,7 @@ Incluye debajo un enlace a tu repositorio
 
 | Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
-| AL-MUSAWI,  ABDULLAH TAHER SAADOON |  https://github.com/AbdullahTaher93/CCMYproject | 0.2 *Reenviado*|
+| AL-MUSAWI,  ABDULLAH TAHER SAADOON |  https://github.com/AbdullahTaher93/CCMYproject | **0.2**  |
 | AL-OWAIDI,  SALAM GHANIM NAJEEB | | |
 | ALGUACIL CAMARERO,  MARÍA DEL MAR | https://github.com/MarAl15/ProyectoCC | 1  |
 | ALQAM,  TAQIEDDIN F. A. | | |
