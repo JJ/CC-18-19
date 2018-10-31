@@ -1,4 +1,4 @@
-﻿# Hito 1
+# Hito 1
 
 Incluye debajo un enlace a tu repositorio
 
