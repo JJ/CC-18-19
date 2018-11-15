@@ -21,7 +21,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 2.2 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 1 |
 | MARTÍN VALERA, JONATHAN | | |
-| MESA GONZÁLEZ, JESÚS | | |
+| MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 2.1 |
 | MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 2.2 |
 | MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 2.0 |
 | NEZREG ELAMBRI,   HOUARIA | | |
