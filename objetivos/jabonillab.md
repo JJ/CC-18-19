@@ -58,3 +58,29 @@
 - [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 - [x] Haber asistido a la clase 
+
+## Tercer Hito
+
+
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar .
+- [ ] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+- [x] Haber asistido al seminario de Ansible.
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+- [x] Haber asistido a la clase.
+- [x] Entender las arquitecturas de software en la nube de uso en la actualidad.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender en qué consiste la infraestructura como software
+- [ ] Avance en el hito 2 incluyendo servicios adicionales
+- [x] Asistir al seminario sobre Log
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+- [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+- [x] Ver un ejemplo básico de [ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml).
+- [x] Ver otro ejemplo de [ansible](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml)
+- [x] Ver el [video](https://www.youtube.com/watch?v=gFd9aj78_SM) tutorial de introducción a Ansible.
+- [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
