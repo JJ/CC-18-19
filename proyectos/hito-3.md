@@ -22,7 +22,7 @@ correspondiente.
 | GALLEGO QUERO,  LUIS | | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 3.0.1 |
-| MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 3.0 |
+| MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 3.0.2 |
 | MORALES GARZON,  ANDREA | | |
 | MORENTE GABALDÓN, ADRIÁN | | |
