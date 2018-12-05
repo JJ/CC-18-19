@@ -86,3 +86,52 @@ Repositorio para le entrega de ejercicos => [Repositorio](https://github.com/lui
 * [X] 5.Instalar y configurar diferentes sistemas de provisionamiento. Realmente solo se ha instalado y probado Heroku.
 * [] 6.Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
 
+## Séptima sesión (14 Noviembre)
+
+### Objetivos principales
+
+* [X] 1. Entender las arquitecturas de software en la nube de uso en la actualidad.
+* [X] 3. Comprender el paper fundamental de la infraestructura virtual en este proceso.
+* [X] 4. Entender en qué consiste la [infraestructura como software](https://jj.github.io/CC/documentos/temas/Provision). 
+
+## Objetivos adicionales
+
+* [X] Terminar el segundo hito.
+* [] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby.
+* [X] Poner a punto hipervisores de uso local y cuentas cloud que permitan usar máquinas virtuales para provisionar.
+
+## Octava sesión (21 Noviembre)
+
+### Objetivos principales
+
+* [X] 1. Entender los mecanismos básicos de los hipervisores y su soporte hardware. 
+* [X] 2. Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube. 
+* [X] 3. Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+
+## Objetivos adicionales
+
+* [X] Continuar trabajando en el [hito 3 del proyecto](https://jj.github.io/CC/documentos/proyecto/3.Pro) del proyecto, resolver las dudas que surjan y comentar lo que se ha hallado en el mismo.
+ 	- Ver [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml) y [otro ejemplo](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml).
+  	- Este [video](https://www.youtube.com/watch?v=gFd9aj78_SM) es un tutorial de introducción a Ansible.
+* [X] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+* [] Aprender nociones básicas de Ruby.
+* [] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+* [X] Proponer un seminario de Chef Workstation para diciembre.
+
+## Novena sesión (28 Noviembre)
+
+### Objetivos principales
+
+* [X] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas
+  virtuales.
+* [X] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+* [X] Instalar y configurar diferentes sistemas de provisionamiento.
+* [X] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+* [X] Entender las nociones básicas de seguridad.
+
+## Objetivos adicionales
+
+* [X] 1. Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+* [X] 2. En la sesión del jueves, comentar los fallos más habituales en el hito.
+
+
