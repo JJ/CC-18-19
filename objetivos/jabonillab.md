@@ -114,3 +114,18 @@
 - [x] Documentar y mantener una plataforma virtual.
 - [x] Realizar tareas de administración de infraestructuras virtuales.
 - [x] Crearse una cuenta google con la dirección de la UGR.
+
+## Quinto Hito
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [ ] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [x] Entender los problemas con el hito 4
+- [x] Las justificaciones de imagen deben ser a base de medidas.
+- [x] Las justificaciones de centro de datos también 
+- [x] Se debe justificar también el tamaño de instancia elegido 
+- [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
