@@ -162,3 +162,21 @@
 		- [x] Usar también los status HTTP en vez de cosas como "No existe" (también en la documentación).
 	- [x] Sobre la programación
 		- [x] Los errores son errores, no "una función devuelve 0". Usad las excepciones del lenguaje y manejadlas.
+
+
+## Decima semana
+
+- [x]  Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [x]  Asimilar los conceptos relacionados con tales sistemas.
+
+## Undecima semana
+- [x] Entender los recursos para automatización de actividades en la nube.
+- [x] Entender el concepto de infraestructura definida por software.
+
+### Otros objetivos de la semana
+- [x] Entender los problemas con el hito 4.
+	- [x] Las justificaciones de imagen deben ser a base de medidas.
+	- [x] Las justificaciones de centro de datos también, pero medidas que sepamos exactamente qué hacen (y que no sean las mismas que las de un compañero).
+	- [x] Se debe justificar también el tamaño de instancia elegido.
+- [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
