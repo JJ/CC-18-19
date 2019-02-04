@@ -10,7 +10,7 @@ versionado semántico para la versión en la columna correspondiente.
 | ALGUACIL CAMARERO,  MARÍA DEL MAR | | |
 | ALQAM,  TAQIEDDIN F. A. | | |
 | ARCOS ANEAS, CARMEN | | |
-| BAUTISTA CASTRO,  JAIRO DANIEL |  https://github.com/AbdullahTaher93/CCMYproject | 5.0 |
+| BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 5.2 **Reenviado** |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 5.0 |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 5.0 |
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 5.0 |
