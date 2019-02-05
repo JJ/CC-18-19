@@ -116,3 +116,15 @@ Objetivos logrados a partir de la lectura y realización de los [ejercicios del 
 
 - [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
 - [x] Instalar algunas otras utilidades que puedan ser de ayuda, como jq y herramientas de medición de prestaciones como httperf o ab.
+
+
+## Undécima semana
+
+- [x] Entender los recursos para automatización de actividades en la nube.
+- [x] Entender el concepto de infraestructura definida por software.
+- [x] Resolver los problemas con Vagrant para un proveedor de nube.
+
+## Duodécima semana
+
+- [x] Entender los recursos para automatización de actividades en la nube.
+- [x] Entender el concepto de infraestructura definida por software.
