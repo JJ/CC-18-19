@@ -118,3 +118,37 @@
 - [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
 
 [Enlace ejercicios tema 5](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-5.md)
+
+## Décimotercera semana
+
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+- [x] Alta en Docker Hub si no se ha hecho ya, así como instalación de las herramientas de Docker.
+
+[Enlace ejercicios tema 6](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-6.md)
+
+[Enlace tema contenedores](http://jj.github.io/CC/documentos/temas/Contenedores#gestin-de-contenedores-con-docker)
+
+## Décimocuarta semana
+
+- [x] Conocer sistemas operativos específicos de uso en contenedores. [Alpine](https://alpinelinux.org/about/)
+- [x] Entender los mecanismos de coordinación de contenedores.
+- [x] Repaso y dudas sobre el último hito de la práctica.
+- [x] Entregar (los que no lo hayan hecho) el hito 4.
+- [x] Resolver dudas relacionadas con el hito 5.
+- [x] Trabajar con CoreOS. [CoreOS](https://coreos.com/)
+- [x] Entender etcd y los mecanismos de coordinación y configuración distribuida. [etcd](https://coreos.com/etcd/docs/latest/getting-started-with-etcd.html)
+
+
+[Enlace ejercicios tema 6](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-6.md)
+
+[Enlace tema contenedores](http://jj.github.io/CC/documentos/temas/Contenedores#gestin-de-contenedores-con-docker)
+
+## Décimoquinta semana
+
+- [x] Entender la composición de servicios usando Docker.
+- [x] Comprender el concepto de microservicios y su arquitectura.
+
+[Enlace ejercicios tema 6](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-6.md)
+
+[Enlace tema contenedores](http://jj.github.io/CC/documentos/temas/Contenedores#gestin-de-contenedores-con-docker)
