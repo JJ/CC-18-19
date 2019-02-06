@@ -31,5 +31,5 @@ versiones semánticas en la columna correspondiente.
 | SAMANIEGO MARTINEZ,  SERGIO | | |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 5 |
 | TATBAK,  EMRE | | |
-| TRILLO VÍLCHEZ,  JOSE RAMÓN | | |
+| TRILLO VÍLCHEZ,  JOSE RAMÓN | https://github.com/jrtrillo/proyecto_cc | 6.0 |
 | VALTL,  JAKOB | | |
