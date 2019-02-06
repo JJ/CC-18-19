@@ -7,7 +7,7 @@ versionado semántico para la versión en la columna correspondiente.
 |----------|--------------- |---------|
 | AL-MUSAWI,  ABDULLAH TAHER SAADOON | | |
 | AL-OWAIDI,  SALAM GHANIM NAJEEB | | |
-| ALGUACIL CAMARERO,  MARÍA DEL MAR | | |
+| ALGUACIL CAMARERO,  MARÍA DEL MAR | https://github.com/MarAl15/ProyectoCC | 6.0.0 |
 | ALQAM,  TAQIEDDIN F. A. | | |
 | ARCOS ANEAS, CARMEN | | |
 | BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 5.2 **Reenviado** |
