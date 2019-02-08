@@ -180,3 +180,40 @@
 	- [x] Se debe justificar también el tamaño de instancia elegido.
 - [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
 - [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Décimo tercera semana
+
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+
+###Objetivos adicionales
+
+- [x] Análisis post-mortem del último hito
+
+	-[x]Similaridades entre entregas.
+
+	- [x] Sobre todo, por coger el primer ejemplo que te encuentres en la web del plugin. Hay que currárselo un poco y no tener un proyecto para el que sirva el Vagrantfile más simple posible.
+
+- [x] Una sola máquina virtual no se orquesta, porque es una sola máquina virtual.
+
+- [x] Alta en Docker Hub si no se ha hecho ya, así como instalación de las herramientas de Docker.
+
+## Décimo cuarta semana
+
+- [x] Conocer sistemas operativos específicos de uso en contenedores.
+- [x] Entender los mecanismos de coordinación de contenedores.
+- [x]Repaso y dudas sobre el último hito de la práctica
+
+### Otros Objetivos
+
+- [x] Entregar (los que no lo hayan hecho) el hito 4.
+- [x] Resolver dudas relacionadas con el hito 5.
+- [x] Trabajar con CoreOS.
+- [] Entender etcd y los mecanismos de coordinación y configuración distribuida.
+
+## Décimo quinta semana
+
+- [x] Entender composición servicios usando Docker.
+
+- [x] Comprender concepto de microseervicios y su arquitectura.
