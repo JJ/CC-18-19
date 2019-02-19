@@ -10,7 +10,7 @@ versiones semánticas en la columna correspondiente.
 | ALGUACIL CAMARERO,  MARÍA DEL MAR | | |
 | ALQAM,  TAQIEDDIN F. A. | | |
 | ARCOS ANEAS, CARMEN | | |
-| BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 6.4 |
+| BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 6.5 **Reenviado** |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | | |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | | |
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 6.6 |
