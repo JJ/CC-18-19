@@ -178,7 +178,7 @@ sub fichero_objetivos {
 sub how_many_milestones {
   my ($user,$repo) = @_;
   my $page = get( "https://github.com/$user/$repo/milestones" );
-  my ($milestones ) = ( $page =~ /(\d+)\s+Open/);
+  my ($milestones ) = ( $page =~ /(\d+)\s+Open/s);
   return $milestones;
 }
 
