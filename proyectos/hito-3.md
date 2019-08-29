@@ -13,7 +13,7 @@ correspondiente.
 | ARCOS ANEAS, CARMEN | | |
 | BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 3.0.0 |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 3.1.2 |
-| CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/PCC2 | 3 **E** |
+| CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/PCC2 | 3.1 **E** |
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 3.2 |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 3.1 |
