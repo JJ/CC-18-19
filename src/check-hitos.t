@@ -177,7 +177,8 @@ sub fichero_objetivos {
 
 sub how_many_milestones {
   my ($user,$repo) = @_;
-  my $page = get( "https://github.com/$user/$repo/milestones" );
+  my $page_url = "https://github.com/$user/$repo/milestones";
+  my $page = get( $page ) or BAIL_OUT("No puedo descargar la página $page_url de GitHub";
   my ($milestones ) = ( $page =~ /(\d+)\s+Open/s);
   return $milestones;
 }
