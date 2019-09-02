@@ -12,7 +12,7 @@ versiones semánticas en la columna correspondiente.
 | ARCOS ANEAS, CARMEN | | |
 | BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 6.5 **Reenviado** |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | | |
-| CABRERA GUTIERREZ,  ANTONIO JAVIER | | |
+| CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/PCC2 | 6 **E** |
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 6.6 |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | | |
